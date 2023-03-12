@@ -9,5 +9,5 @@ Figure 1. Overall framework of the model, three of which involve counting (I, II
 Figure 2. Model training framework diagram：
 <img width="416" alt="image" src="https://user-images.githubusercontent.com/78481822/224526054-63f15209-c221-48a1-bc62-717e351120e5.png">
 
-Figure 3. Schematic diagram of granulocyte real-time detection App.
+Figure 3. Schematic diagram of granulocyte real-time detection App:
 <img width="416" alt="image" src="https://user-images.githubusercontent.com/78481822/224526015-e41b544a-5f6a-42d4-b6e8-f33c9f295522.png">
